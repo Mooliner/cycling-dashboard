@@ -5,8 +5,6 @@ conectándome directamente a la API de Strava. Proyecto realizado para
 aprender data engineering de principio a fin: desde la extracción de 
 datos hasta su visualización.
 
-[Ver el dashboard en directo](cycling-dashboard-93owpuyfh-mooliners-projects.vercel.app)
-
 ## Capturas
 - Vista Inicio:
 ![Dashboard - inicio](img/inicio.png)
